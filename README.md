@@ -9,7 +9,7 @@
 <div style="display: flex;">
   <div style="flex: 1;">
    
-   # 💫 About Me:
+   <h2> 💫 About Me: <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3JzOTM5ZTAyM21mN3Zpa2R2ZDVuNDlwY214bGh0OHpjZGViaHByMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/PBHb1JxpyRJ9UC7634/giphy.gif"width="30"</img></h2>
 - 💻 I specialize in Python, but I enjoy exploring other technologies and languages as well.
 - 🚀 I'm always eager to learn new things and take on new challenges.
 - 🎓 I believe in the power of knowledge-sharing and open source.
