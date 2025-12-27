@@ -45,3 +45,24 @@ I enjoy collaborating with other developers and learning from their experiences.
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=merko)
 
 Thanks for visiting my profile! Feel free to explore my repositories, and don't forget to leave a star ⭐️ if you find something interesting!
+
+<h2>ɢᴇᴛ ɪɴ ᴛᴏᴜᴄʜ <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="32"/></h2>
+
+<p align="center">
+<a href="https://telegram.me/Botskingdoms"><img src="https://img.shields.io/badge/-Contact%20Me-black.svg?style=for-the-badge&logo=Telegram" width="200" height="38.5"/></a>
+</p>
+<p align="center">
+<a href="https://telegram.me/RioShin"><img src="https://img.shields.io/badge/-Support%20Channel-black.svg?style=for-the-badge&logo=Telegram" width="200" height="38.5"/></a>
+</p>
+
+<h1> <img src="https://raw.githubusercontent.com/proyato/proyato/master/resources/songs.gif" width="57px"> ᴄᴜʀʀᴇɴᴛʟʏ ᴏɴ sᴘᴏᴛɪғʏ </h1>
+
+<!--
+ᴏɴ
+-->
+
+<div align="center">
+  <a href="https://t.me/RioShin2025" target="_blank">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31wf4eiltwgxxzm65hbbdnpf4xru&count=1&unique=true" alt="Spotify recently played"  />
+  </a>
+</div>
